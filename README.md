@@ -27,7 +27,7 @@ echo "alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'" >> ~/.bashr
 
 4. Install application
 ```bash
-sail up -d && sail install.sh
+sail up -d && sail bash install.sh
 ```
 
 ## Local development

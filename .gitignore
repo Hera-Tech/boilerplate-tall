@@ -1,6 +1,6 @@
 /.phpunit.cache
 /node_modules
-/public/build
+# /public/build  # Comment if using hostinger shared-hosting
 /public/hot
 /public/storage
 /storage/*.key
